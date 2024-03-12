@@ -7,7 +7,6 @@ import plotly.express as px
 from plotly.subplots import make_subplots
 from umap.umap_ import UMAP
 
-os.chdir('E:\Blueprint_Projects\Learn\Cluster')
 # duckdb- making connection
 conn=duck.connect('country_cluster.db')
 
