@@ -1,5 +1,7 @@
 # Unsupervised Learning - Cluster Streamlit Dashboard
 
+[GIF](src/Animation.gif)
+
 Libraries Used:
 
 1. Duckdb
