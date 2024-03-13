@@ -2,7 +2,7 @@
 
 [Link to Dashboard](https://unsupervised-learning-cluster-streamlit.onrender.com)
 
-[GIF](src/Animation.gif)
+![GIF](src/Animation.gif)
 
 Libraries Used:
 
